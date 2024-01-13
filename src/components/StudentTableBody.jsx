@@ -32,12 +32,12 @@ const classTwo = [
 
 // class Three data
 const classThree = [
-  { id: 1, img: stuMale, name: "Lucas", score: "A+", percentage: 88 },
+  { id: 1, img: stuMale, name: "Lucas", score: "A+", percentage: 90 },
   { id: 2, img: stuFemale, name: "Isabella", score: "A+", percentage: 94 },
   { id: 3, img: stuMale, name: "Benjamin", score: "A-", percentage: 62 },
   { id: 4, img: stuFemale, name: "Avery", score: "A+", percentage: 80 },
   { id: 5, img: stuMale, name: "Jackson", score: "A+", percentage: 97 },
-  { id: 6, img: stuFemale, name: "Aria", score: "A", percentage: 76 },
+  { id: 6, img: stuFemale, name: "Aria", score: "A", percentage: 75 },
   { id: 7, img: stuMale, name: "Logan", score: "A", percentage: 72 },
   { id: 8, img: stuMale, name: "Abigail", score: "A+", percentage: 91 },
   { id: 9, img: stuMale, name: "Matthew", score: "A+", percentage: 85 },
